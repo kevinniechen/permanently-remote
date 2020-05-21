@@ -1,5 +1,7 @@
 # Recently Remote
-A list of companies that have recently announced that they're allowing employees to permanently WFH after COVID-19.
+A list of companies that are allowing employees to permanently WFH after COVID-19.
+
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.*
 
 ## List
 
