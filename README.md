@@ -3,9 +3,9 @@ A list of companies that are allowing employees to permanently work from home af
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.*
 
-## List
+## Companies
 
-Company | Announced | Eligibility | Links
+Name | Announced | Eligibility | Links
 --------|-----------|--------------|---------
 Shopify | 2020-05-21 | Everyone | [Announcement](https://twitter.com/tobi/status/1263483496087064579), [Jobs](https://www.shopify.com/careers)
 Facebook | 2020-05-21 | Experienced Hires | [Announcement](https://www.theverge.com/2020/5/21/21265780/facebook-remote-work-mark-zuckerberg-interview-wfh), [Jobs](https://www.facebook.com/careers/)
