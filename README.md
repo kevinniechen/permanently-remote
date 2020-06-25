@@ -7,6 +7,7 @@ A list of tech companies that are allowing employees to permanently work from ho
 
 X       | Name    | Announced | Eligibility | # of Employees | Links
 --------|---------|-----------|-------------|----------------|--------
+![logo](http://logo.clearbit.com/quora.com?size=20) | Quora | 2020-06-25 | Everyone | 501 - 1000 | [Announcement](https://twitter.com/adamdangelo/status/1276210618786168833), [Jobs](https://quora.com/careers)
 ![logo](http://logo.clearbit.com/slack.com?size=20) | Slack | 2020-06-11 | Everyone | 1001 - 5000 | [Announcement](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok), [Jobs](https://slack.com/careers)
 ![logo](http://logo.clearbit.com/upwork.com?size=20) | Upwork | 2020-05-22 | Everyone | 251 - 500 | [Announcement](https://twitter.com/hydnbrwn/status/1263840533144727552), [Jobs](https://careers.upwork.com/homepage)
 ![logo](http://logo.clearbit.com/shopify.com?size=20) | Shopify | 2020-05-21 | Everyone | 1001 - 5000 | [Announcement](https://twitter.com/tobi/status/1263483496087064579), [Jobs](https://www.shopify.com/careers)
