@@ -16,6 +16,8 @@ X       | Name    | Announced | Eligibility | # of Employees | Links
 ![logo](http://logo.clearbit.com/square.com?size=20) | Square  | 2020-05-18 | Everyone | 1001 - 5000 | [Announcement](https://www.theverge.com/2020/5/18/21261798/square-employees-work-from-home-remote-premanent-policy-ceo), [Jobs](https://careers.squareup.com/us/en)
 ![logo](http://logo.clearbit.com/lambdaschool.com?size=20) | Lambda School | 2020-05-13 | Everyone | 101 - 250 | [Announcement](https://twitter.com/Austen/status/1260659150817640448), [Jobs](https://lambdaschool.com/careers#jobs)
 ![logo](http://logo.clearbit.com/twitter.com?size=20) | Twitter | 2020-05-12 | Everyone | 1001 - 5000 | [Announcement](https://www.theverge.com/2020/5/12/21256060/twitter-employees-work-from-home-covid-19-pandemic), [Jobs](https://careers.twitter.com/en.html)
+![logo](http://logo.clearbit.com/neeva.co?size=20) | Neeva | 2020-09-09 | Everyone | 1 - 100 | [Announcement](https://google.com), [Jobs](https://google.com)
+
 
 *"Everyone" – refers to "teams that are able to do their jobs remotely. Those that need to come into the office, like security personnel and facilities, will continue to do so."*
 
