@@ -7,6 +7,8 @@ A list of tech companies that are allowing employees to permanently work from ho
 
 X       | Name    | Announced | Eligibility | # of Employees | Links
 --------|---------|-----------|-------------|----------------|--------
+
+![logo](http://logo.clearbit.com/dropbox.com?size=20) | Dropbox | 2020-10-13 | Everyone | 501 - 1000 | [Announcement](https://www.cnbc.com/amp/2020/10/13/dropbox-latest-san-francisco-tech-company-making-remote-work-permanent.html), [Jobs](https://dropbox.com/careers)
 ![logo](http://logo.clearbit.com/quora.com?size=20) | Quora | 2020-06-25 | Everyone | 501 - 1000 | [Announcement](https://twitter.com/adamdangelo/status/1276210618786168833), [Jobs](https://quora.com/careers)
 ![logo](http://logo.clearbit.com/slack.com?size=20) | Slack | 2020-06-11 | Everyone | 1001 - 5000 | [Announcement](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok), [Jobs](https://slack.com/careers)
 ![logo](http://logo.clearbit.com/upwork.com?size=20) | Upwork | 2020-05-22 | Everyone | 251 - 500 | [Announcement](https://twitter.com/hydnbrwn/status/1263840533144727552), [Jobs](https://careers.upwork.com/homepage)
